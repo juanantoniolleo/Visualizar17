@@ -1,4 +1,4 @@
-# TALLER DE JUPYTER NOTEBOOK, por Juan Antonio Lleó
+# TALLER DE JUPYTER NOTEBOOK - Juan Antonio Lleó
 
 CONVOCATORIA: Sábado, 18:30 h (despues del taller de GIS)
 
