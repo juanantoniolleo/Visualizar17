@@ -9,11 +9,14 @@ Su principal ventaja es que el código que aparece en cada bloque puede ejecutar
 Ëste código puede editarse en cualquier momento y volver a ejecutarse, las veces que se necesite, todo ello sin salir de la página web. 
 Es muy útil para enseñanza, para prototipos de programas, para mostrar o compartir proyectos que incluyan código, etc.
 
-En la dirección: try.jupyter.org puedes probar varios ejemplos, en estos lenguajes o entornos: 
+En la dirección: <http://try.jupyter.org> puedes probar varios ejemplos, en estos lenguajes o entornos: 
 Python, R, Scala, Haskell, Julia y Spark(con Scala o Python).
 
 Si quieres descargarlo e instalarlo en tu ordenador, puedes hacerlo en: 
 jupyter.org
+<http://jupyter.org>
+
+[jupyter](http://jupyter.org)
 
 Pero recuerda que tienes que tener instalados los lenguajes sobre los que quieras trabajar.
 
