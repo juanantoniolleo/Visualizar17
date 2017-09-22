@@ -3,8 +3,14 @@
 
 ## PAQUETES HASKELL DE VISUALIZACION DE DATOS:
 
+### Se pueden descargar desde la dirección:
+## hds.lleo.net
+## Descargar la carpeta: GRAFICOS
+## http://hds.lleo.net/GRAFICOS.zip
 
-### amby_package-Statistical_DataViz: Muy interesante
+
+
+### amby_package-Statistical_DataViz: Necesita GTK, muy completa y vistosa
 
 ### barchart_package-Dataviz: genera gráficos de barras a partir de archivos CSV
 
